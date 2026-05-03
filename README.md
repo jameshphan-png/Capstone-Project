@@ -1,5 +1,5 @@
 # PASSWORD RESET IT AGENT
-Capstone Project - Created by silly team
+Capstone Project - Created by silly team (James Phan, Ryan Vu, Kenneth Lengo, Kenneth Wu, Miko Tonthat, and Brandon Ly)
 
 ## 📌 Problem Definition & Success Metrics
 
